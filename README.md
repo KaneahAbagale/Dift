@@ -65,7 +65,7 @@ Bad data silently breaks:
 - warehouse transformations
 - business decisions
 
-Dift helps teams detect risky dataset changes before they propagate into production systems.
+Dift helps teams detect risky dataset changes before they propagate into production systems and saves business from bad decisions.
 
 ---
 
